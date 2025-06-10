@@ -1,4 +1,4 @@
-# lambda-mongo-writer
+# lambda-request-logger
 AWS Lambda function for receiving and logging HTTP requests to MongoDB.
 
 ## Compiling
